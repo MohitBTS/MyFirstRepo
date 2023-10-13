@@ -4,4 +4,4 @@ create table Student
     FirstName VARCHAR(100),
     LastName Varchar(100)
 
-);
+); 
